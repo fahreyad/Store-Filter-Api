@@ -1,0 +1,71 @@
+[
+    {
+        "name":"casco soup",
+        "price": 120,
+        "feature":true,
+        "company":"marcos",
+        "rating":3.5
+    },
+    {
+        "name":"lightboy soup",
+        "price": 80,
+        "feature":false,
+        "company":"liddy"
+    },
+    {
+        "name":"maggie noodles",
+        "price": 60,
+        "feature":false,
+        "company":"caressa",
+         "rating":3.5
+    },
+    {
+        "name":"kitkat",
+        "price": 40,
+        "feature":false,
+        "company":"caressa"
+    },
+    {
+        "name":"safari",
+        "price": 79,
+        "feature":true,
+        "company":"marcos"
+    },
+    {
+        "name":"horlicks",
+        "price": 34,
+        "feature":false,
+        "company":"ikea"
+    },
+    {
+        "name":"mayonnaise",
+        "price": 68,
+        "feature":false,
+        "company":"marcos",
+        "rating":3.5
+    },
+    {
+        "name":"dal",
+        "price": 160,
+        "feature":true,
+        "company":"ikea"
+    },
+    {
+        "name":"rice",
+        "price": 120,
+        "feature":false,
+        "company":"caressa"
+    },
+    {
+        "name":"banana",
+        "price": 120,
+        "feature":false,
+        "company":"liddy"
+    },
+    {
+        "name":"banana",
+        "price": 70,
+        "feature":false,
+        "company":"ikea"
+    }
+]
